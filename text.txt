@@ -1,1 +1,1 @@
-this is just a test
+This is my self-learning chess project. Using bitboard functionality largely borrowed from stockfish.
